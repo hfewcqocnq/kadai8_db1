@@ -8,7 +8,7 @@
 
 ## ③DEMO
 
-- https://gsmito.sakura.ne.jp/kadai08_db1/
+- https://gsmito.sakura.ne.jp/kadai8_db1/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
